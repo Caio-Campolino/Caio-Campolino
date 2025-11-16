@@ -4,9 +4,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03C301&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio!" alt="Typing SVG" /></a>
 <hr>
-<tt>
+
 <h3 align="center">Profissional de TI | Segurança da Informação | Red Team & Blue Team | Infraestrutura de Redes | Monitoramento SOC & NOC</h3>
-</tt>
 <hr>
 
 
