@@ -1,15 +1,27 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenljdWoyaWc4ZGU0ZmNkZ243OTI4ZDl5ZTdhNm5obnUyZzZvZGx1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkW7f8QXnhnO0/giphy.gif" width="600" alt="BLAME! gif">
 </p>
-
-<h1 align="center">Olá, me chamo Caio Campolino</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03C301&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio!" alt="Typing SVG" /></a>
+<hr>
+<tt>
 <h3 align="center">Profissional de TI | Segurança da Informação | Red Team & Blue Team | Infraestrutura de Redes | Monitoramento SOC & NOC</h3>
+</tt>
 <hr>
 
-<p align="center">
+
+
+<p align="center">Atuo na área de Tecnologia da Informação com foco em Redes de Computadores, Segurança da Informação e Red Team, graduando em Análise e Desenvolvimento de Sistemas.
+<p align="center">Atualmente dedico meus estudos a Segurança da Informação com foco em Segurança Ofensiva, análise e descoberta de vulnerabilidades em infraestruturas e aplicações.
+
+<p align="center">Minha trajetória inclui infraestrutura e redes corporativas, Cloud computing, virtualização e monitoramento/observabilidade, atuando em políticas de DLP, WAF, campanhas de phishing e conscientização em segurança alinhada à ISO/IEC 27001.
+</p>
+<hr>
+Stack:
+<div align="center">
     <img src="https://skillicons.dev/icons?i=linux,windows,py,cpp,java,bash,ubuntu,debian,kali,aws,c,cs,cloudflare,css,docker,grafana,html,js,mysql,nginx,powershell,terraform" alt="Minhas Habilidades"/>
 </p>
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
     <img src="https://img.shields.io/badge/Nmap-404040?style=flat-square&logo=nmap&logoColor=white" alt="Nmap">
     <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
@@ -35,17 +47,9 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 <hr>
-
 <p align="center">
-Atuo na área de Tecnologia da Informação com foco em Redes de Computadores, Segurança da Informação e Red Team, graduando em Análise e Desenvolvimento de Sistemas.<br>
-<b>Atualmente</b> dedico meus estudos a Segurança da Informação com foco em Segurança Ofensiva, análise e descoberta de <b>vulnerabilidades</b> em infraestruturas e aplicações.<br>
-Minha trajetória inclui infraestrutura e redes corporativas, Cloud computing, virtualização e monitoramento/observabilidade, atuando em políticas de DLP, WAF, campanhas de phishing e conscientização em segurança alinhada à ISO/IEC 27001.
-</p>
-<hr>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Campolino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Campolino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Campolino&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Campolino&layout=compact&langs_count=7&bg_color=000000&title_color=00FF00&text_color=FFFFFF&hide_border=true"/>
 </p>
 <hr>
 
