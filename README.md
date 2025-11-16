@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03C301&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03C301&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio!" alt="Typing SVG" /></a>
 <hr>
 
 <h3 align="center">Profissional de TI | Segurança da Informação | Red Team & Blue Team | Infraestrutura de Redes | Monitoramento SOC & NOC</h3>
@@ -44,8 +44,8 @@
 </p>
 <hr>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Campolino&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Campolino&layout=compact&langs_count=7&bg_color=000000&title_color=00FF00&text_color=FFFFFF&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Campolino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Campolino&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <hr>
 
