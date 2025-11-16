@@ -1,19 +1,17 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03C301&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio!" alt="Typing SVG" /></a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenljdWoyaWc4ZGU0ZmNkZ243OTI4ZDl5ZTdhNm5obnUyZzZvZGx1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkW7f8QXnhnO0/giphy.gif" width="600" alt="BLAME! gif">
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=027E01&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio+!" alt="Typing SVG" /></a>
 <hr>
+<p align="left">Um pouco sobre mim: <br>
+<p align="left">Atuo na área de Tecnologia da Informação com foco em Redes de Computadores, Segurança da Informação e Red Team, graduando em Análise e Desenvolvimento de Sistemas.
+<p align="left">Atualmente dedico meus estudos a Segurança da Informação com foco em Segurança Ofensiva, análise e descoberta de vulnerabilidades em infraestruturas e aplicações.
 
-<h3 align="center">Profissional de TI | Segurança da Informação | Red Team & Blue Team | Infraestrutura de Redes | Monitoramento SOC & NOC</h3>
-<hr>
-
-
-
-<p align="center">Atuo na área de Tecnologia da Informação com foco em Redes de Computadores, Segurança da Informação e Red Team, graduando em Análise e Desenvolvimento de Sistemas.
-<p align="center">Atualmente dedico meus estudos a Segurança da Informação com foco em Segurança Ofensiva, análise e descoberta de vulnerabilidades em infraestruturas e aplicações.
-
-<p align="center">Minha trajetória inclui infraestrutura e redes corporativas, Cloud computing, virtualização e monitoramento/observabilidade, atuando em políticas de DLP, WAF, campanhas de phishing e conscientização em segurança alinhada à ISO/IEC 27001.
+<p align="left">Minha trajetória inclui infraestrutura e redes corporativas, Cloud computing, virtualização e monitoramento/observabilidade, atuando em políticas de DLP, WAF, campanhas de phishing e conscientização em segurança alinhada à ISO/IEC 27001.
 </p>
 <hr>
-
+My Stack
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,windows,py,cpp,java,bash,ubuntu,debian,kali,aws,c,cs,cloudflare,css,docker,grafana,html,js,mysql,nginx,powershell,terraform" alt="Minhas Habilidades"/>
 </p>
