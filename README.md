@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenljdWoyaWc4ZGU0ZmNkZ243OTI4ZDl5ZTdhNm5obnUyZzZvZGx1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkW7f8QXnhnO0/giphy.gif" width="600" alt="BLAME! gif">
-</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=027E01&width=435&lines=Ol%C3%A1%2C+me+chamo+Caio+!" alt="Typing SVG" /></a>
 <hr>
@@ -47,11 +45,14 @@ My Stack
 </p>
 <hr>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/caio-c-0ab401269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:caiojose531@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenljdWoyaWc4ZGU0ZmNkZ243OTI4ZDl5ZTdhNm5obnUyZzZvZGx1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkW7f8QXnhnO0/giphy.gif" width="600" alt="BLAME! gif">
 </p>
