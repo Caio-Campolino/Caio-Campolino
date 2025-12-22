@@ -9,33 +9,19 @@
 <hr>
 My Stack:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=linux,windows,py,cpp,java,bash,ubuntu,debian,kali,aws,c,cs,cloudflare,css,docker,grafana,html,js,mysql,nginx,powershell,terraform" alt="Minhas Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,py,cpp,java,bash,ubuntu,debian,arch,aws,c,cs,cloudflare,css,docker,grafana,html,js,mysql,nginx,powershell,terraform,git," alt="Minhas Habilidades"/>
 </p>
 <div align="left">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-    <img src="https://img.shields.io/badge/Nmap-404040?style=flat-square&logo=nmap&logoColor=white" alt="Nmap">
     <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
     <img src="https://img.shields.io/badge/Fortigate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortigate">
-    <img src="https://img.shields.io/badge/WAF-DD571A?style=flat-square&logoColor=white" alt="WAF">
-    <img src="https://img.shields.io/badge/OpenVAS-00A9E0?style=flat-square&logoColor=white" alt="OpenVAS">
-    <img src="https://img.shields.io/badge/Nikto-121011?style=flat-square&logoColor=white" alt="Nikto">
-    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows-server&logoColor=white" alt="Windows Server">
-    <img src="https://img.shields.io/badge/John_the_Ripper-121011?style=flat-square&logoColor=white" alt="John the Ripper">
-    <img src="https://img.shields.io/badge/Hydra-A31D33?style=flat-square&logoColor=white" alt="Hydra">
-    <img src="https://img.shields.io/badge/Nessus-2B5C8D?style=flat-square&logo=nessus&logoColor=white" alt="Nessus">
-    <img src="https://img.shields.io/badge/Nuclei-4255F4?style=flat-square&logo=nuclei&logoColor=white" alt="Nuclei">
-    <img src="https://img.shields.io/badge/Cobalt_Strike-00539B?style=flat-square&logo=cobaltstrike&logoColor=white" alt="Cobalt Strike">
     <img src="https://img.shields.io/badge/SecurityScorecard-121011?style=flat-square&logo=securityscorecard&logoColor=white" alt="SecurityScorecard">
     <img src="https://img.shields.io/badge/Metasploit-121011?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
     <img src="https://img.shields.io/badge/HashCat-944D7C?style=flat-square&logo=hashcat&logoColor=white" alt="HashCat">
-    <img src="https://img.shields.io/badge/SQLMap-D43B2B?style=flat-square&logo=sqlmap&logoColor=white" alt="SQLMap">
-    <img src="https://img.shields.io/badge/BloodHound-C21E23?style=flat-square&logo=bloodhound&logoColor=white" alt="BloodHound">
-    <img src="https://img.shields.io/badge/Wazuh-01ADEF?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh">
     <img src="https://img.shields.io/badge/Snort-C62A2B?style=flat-square&logo=snort&logoColor=white" alt="Snort">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-<p align="left">
+  <p align="left">
   <a href="https://tryhackme.com/p/Ca.io" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="TryHackMe Badge" />
   </a>
