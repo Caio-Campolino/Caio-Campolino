@@ -35,6 +35,11 @@ My Stack:
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+<p align="left">
+  <a href="https://tryhackme.com/p/Ca.io" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
 <hr>
 <p align="left">
