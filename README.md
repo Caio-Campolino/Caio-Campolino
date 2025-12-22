@@ -7,7 +7,7 @@
 <p align="left">Minha trajetória inclui infraestrutura e redes corporativas, Cloud computing, virtualização e monitoramento/observabilidade, atuando em políticas de DLP, WAF, campanhas de phishing e conscientização em segurança alinhada à ISO/IEC 27001.
 </p>
 <hr>
-My Stack:
+
 <div align="left">
     <img src="https://skillicons.dev/icons?i=linux,windows,py,cpp,java,bash,ubuntu,debian,arch,aws,c,cs,cloudflare,css,docker,grafana,html,js,mysql,nginx,powershell,terraform,git," alt="Minhas Habilidades"/>
 </p>
