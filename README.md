@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
   <p align="left">
   <a href="https://tryhackme.com/p/Ca.io" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="Your Image Badge" />
   </a>
 </p>
 
