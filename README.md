@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,py,java,bash,aws,cloudflare,docker,powershell," alt="Minhas Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,py,java,bash,powershell,aws,cloudflare,docker," alt="Minhas Habilidades"/>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
