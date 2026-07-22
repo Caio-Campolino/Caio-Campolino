@@ -19,9 +19,6 @@
   <a href="https://tryhackme.com/p/Ca.io" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="TryHackMe Badge" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Campolino&layout=compact&langs_count=7&theme=dark"/>
-</p>
 
   <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x5ZnZhaDJ6YXNqcDI4NzByczBsZzJ0dWZ3OHgzY3hzeGhidnNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbAaUG7cjkZy/giphy.gif" width="400" alt="BLAME! gif">
