@@ -15,10 +15,18 @@
     <img src="https://img.shields.io/badge/SecurityScorecard-121011?style=flat-square&logo=securityscorecard&logoColor=white" alt="SecurityScorecard">
     <img src="https://img.shields.io/badge/Metasploit-121011?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
 
+<p align="center">
+  <a href="https://www.credly.com/users/caio-campolino">
+    <img src="https://img.shields.io/badge/Credly-View%20My%20Certifications-orange?logo=credly" />
+  </a>
+</p>
+
+
   <p align="center">
   <a href="https://tryhackme.com/p/Ca.io" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Ca.io.png" alt="TryHackMe Badge" />
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caio-campolino&theme=dark&hide_border=true" /> </p>
 
   <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x5ZnZhaDJ6YXNqcDI4NzByczBsZzJ0dWZ3OHgzY3hzeGhidnNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbAaUG7cjkZy/giphy.gif" width="400" alt="BLAME! gif">
