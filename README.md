@@ -1,7 +1,7 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=027E01&width=435&lines=caio%40world%3A~%24+whoami;Caio+Campolino" alt="Typing SVG" /></a>
 <hr>
-<p align="center">Currently working as a Penetration Tester and overseeing Vulnerability Management, with solid experience in network infrastructure, security devices, and cyber threat management.
+<p align="center">Cybersecurity Analyst focused on Vulnerability Management, Offensive Security, and Network Security, with hands-on experience in security operations and infrastructure.
 </p>
 
 <p align="center">
